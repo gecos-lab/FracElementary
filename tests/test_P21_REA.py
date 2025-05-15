@@ -1,6 +1,4 @@
-from src.P21_REA import (
-    sum
-)
+from src.P21_REA import sum
 import os
 import pytest
 
