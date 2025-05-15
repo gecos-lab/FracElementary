@@ -5,3 +5,5 @@ shapely
 matplotlib
 numpy
 pandas
+pyvista
+scipy
