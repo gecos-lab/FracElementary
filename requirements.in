@@ -1,0 +1,7 @@
+vtk >=9.3, <9.4
+geopandas
+numpy
+shapely
+matplotlib
+numpy
+pandas
