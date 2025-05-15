@@ -37,6 +37,7 @@ numpy==2.2.5
     #   pandas
     #   pyogrio
     #   pyvista
+    #   scipy
     #   shapely
 packaging==25.0
     # via
@@ -72,6 +73,8 @@ pyvista==0.45.2
     # via -r requirements.in
 requests==2.32.3
     # via pooch
+scipy==1.15.3
+    # via -r requirements.in
 scooby==0.10.1
     # via pyvista
 shapely==2.1.0
